@@ -1,0 +1,1 @@
+ucloud static binary
